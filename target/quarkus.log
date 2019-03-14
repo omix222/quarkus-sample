@@ -1,0 +1,27 @@
+2019-03-14 17:10:39,761 macbook-pro surefirebooter2742342333292684750.jar[1576] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-14 17:10:39,947 macbook-pro surefirebooter2742342333292684750.jar[1576] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-14 17:10:40,613 macbook-pro surefirebooter2742342333292684750.jar[1576] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 852ms
+2019-03-14 17:10:41,077 macbook-pro surefirebooter2742342333292684750.jar[1576] DEBUG [org.xnio] (main) XNIO version 3.6.5.Final
+2019-03-14 17:10:41,090 macbook-pro surefirebooter2742342333292684750.jar[1576] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.6.5.Final
+2019-03-14 17:10:41,233 macbook-pro surefirebooter2742342333292684750.jar[1576] INFO  [io.quarkus] (main) Quarkus 0.11.0 started in 0.597s. Listening on: http://127.0.0.1:8081
+2019-03-14 17:10:41,234 macbook-pro surefirebooter2742342333292684750.jar[1576] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-14 17:10:42,587 macbook-pro surefirebooter2742342333292684750.jar[1576] INFO  [io.quarkus] (main) Quarkus stopped in 0.007s
+2019-03-14 17:13:35,292 unknown-host getting-started-1.0-SNAPSHOT-runner[1625] INFO  [io.quarkus] (main) Quarkus 0.11.0 started in 0.017s. Listening on: http://127.0.0.1:8081
+2019-03-14 17:13:40,307 unknown-host getting-started-1.0-SNAPSHOT-runner[1625] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-14 17:13:40,308 unknown-host getting-started-1.0-SNAPSHOT-runner[1625] INFO  [io.quarkus] (main) Quarkus stopped in 0.001s
+2019-03-14 17:14:38,254 macbook-pro surefirebooter8164117405974875351.jar[1661] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-14 17:14:38,389 macbook-pro surefirebooter8164117405974875351.jar[1661] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-14 17:14:38,800 macbook-pro surefirebooter8164117405974875351.jar[1661] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 546ms
+2019-03-14 17:14:39,033 macbook-pro surefirebooter8164117405974875351.jar[1661] DEBUG [org.xnio] (main) XNIO version 3.6.5.Final
+2019-03-14 17:14:39,072 macbook-pro surefirebooter8164117405974875351.jar[1661] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.6.5.Final
+2019-03-14 17:14:39,153 macbook-pro surefirebooter8164117405974875351.jar[1661] INFO  [io.quarkus] (main) Quarkus 0.11.0 started in 0.340s. Listening on: http://127.0.0.1:8081
+2019-03-14 17:14:39,153 macbook-pro surefirebooter8164117405974875351.jar[1661] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-14 17:14:40,162 macbook-pro surefirebooter8164117405974875351.jar[1661] INFO  [io.quarkus] (main) Quarkus stopped in 0.006s
+2019-03-14 17:16:17,121 macbook-pro surefirebooter7031836301277638995.jar[1747] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-14 17:16:17,252 macbook-pro surefirebooter7031836301277638995.jar[1747] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-14 17:16:17,672 macbook-pro surefirebooter7031836301277638995.jar[1747] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 550ms
+2019-03-14 17:16:17,895 macbook-pro surefirebooter7031836301277638995.jar[1747] DEBUG [org.xnio] (main) XNIO version 3.6.5.Final
+2019-03-14 17:16:17,937 macbook-pro surefirebooter7031836301277638995.jar[1747] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.6.5.Final
+2019-03-14 17:16:18,017 macbook-pro surefirebooter7031836301277638995.jar[1747] INFO  [io.quarkus] (main) Quarkus 0.11.0 started in 0.332s. Listening on: http://127.0.0.1:8081
+2019-03-14 17:16:18,017 macbook-pro surefirebooter7031836301277638995.jar[1747] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-14 17:16:19,063 macbook-pro surefirebooter7031836301277638995.jar[1747] INFO  [io.quarkus] (main) Quarkus stopped in 0.010s

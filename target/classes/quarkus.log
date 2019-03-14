@@ -1,0 +1,24 @@
+2019-03-14 17:03:51,951 macbook-pro getting-started-dev.jar[1476] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-14 17:03:52,091 macbook-pro getting-started-dev.jar[1476] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-14 17:03:52,445 macbook-pro getting-started-dev.jar[1476] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 494ms
+2019-03-14 17:03:52,657 macbook-pro getting-started-dev.jar[1476] DEBUG [org.xnio] (main) XNIO version 3.6.5.Final
+2019-03-14 17:03:52,667 macbook-pro getting-started-dev.jar[1476] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.6.5.Final
+2019-03-14 17:03:52,736 macbook-pro getting-started-dev.jar[1476] INFO  [io.quarkus] (main) Quarkus 0.11.0 started in 0.941s. Listening on: http://127.0.0.1:8080
+2019-03-14 17:03:52,737 macbook-pro getting-started-dev.jar[1476] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-14 17:04:03,672 macbook-pro getting-started-dev.jar[1476] INFO  [io.quarkus] (Quarkus Shutdown Thread) Quarkus stopped in 0.003s
+2019-03-14 17:05:25,652 macbook-pro getting-started-dev.jar[1498] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-14 17:05:25,784 macbook-pro getting-started-dev.jar[1498] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-14 17:05:26,135 macbook-pro getting-started-dev.jar[1498] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 483ms
+2019-03-14 17:05:26,353 macbook-pro getting-started-dev.jar[1498] DEBUG [org.xnio] (main) XNIO version 3.6.5.Final
+2019-03-14 17:05:26,367 macbook-pro getting-started-dev.jar[1498] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.6.5.Final
+2019-03-14 17:05:26,496 macbook-pro getting-started-dev.jar[1498] INFO  [io.quarkus] (main) Quarkus 0.11.0 started in 0.997s. Listening on: http://127.0.0.1:8080
+2019-03-14 17:05:26,498 macbook-pro getting-started-dev.jar[1498] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-14 17:08:53,877 macbook-pro getting-started-dev.jar[1498] INFO  [io.quarkus] (Quarkus Shutdown Thread) Quarkus stopped in 0.003s
+2019-03-14 17:09:25,527 macbook-pro getting-started-dev.jar[1550] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-14 17:09:25,661 macbook-pro getting-started-dev.jar[1550] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-14 17:09:26,022 macbook-pro getting-started-dev.jar[1550] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 495ms
+2019-03-14 17:09:26,236 macbook-pro getting-started-dev.jar[1550] DEBUG [org.xnio] (main) XNIO version 3.6.5.Final
+2019-03-14 17:09:26,247 macbook-pro getting-started-dev.jar[1550] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.6.5.Final
+2019-03-14 17:09:26,325 macbook-pro getting-started-dev.jar[1550] INFO  [io.quarkus] (main) Quarkus 0.11.0 started in 0.959s. Listening on: http://127.0.0.1:8080
+2019-03-14 17:09:26,327 macbook-pro getting-started-dev.jar[1550] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-14 17:10:18,466 macbook-pro getting-started-dev.jar[1550] INFO  [io.quarkus] (Quarkus Shutdown Thread) Quarkus stopped in 0.005s
